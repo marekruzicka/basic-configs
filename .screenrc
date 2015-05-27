@@ -1,0 +1,7 @@
+startup_message off
+vbell off
+defscrollback 10000
+autodetach on
+termcapinfo xterm ti@:te@
+hardstatus alwayslastline "%?%F%{+b wk}%:%{+b wk}%?%c - %d.%M %Y |%{= kw} %-Lw%{=b r} %n%f %t %{-}%+Lw %=%{= dd}"
+#hardstatus alwayslastline "%?%F%{+b wk}%:%{+b wk}%?%c:%s - %d.%M %Y |%{= kw} %-Lw%{=b r} %n%f %t %{-}%+Lw %=%{= dd}"

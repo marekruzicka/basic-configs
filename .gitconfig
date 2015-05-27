@@ -1,0 +1,7 @@
+[user]
+	name = Marek Ruzicka
+	email = marek.ruzicka@t-systems.sk
+[core]
+	editor = vim
+[push]
+	default = simple

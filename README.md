@@ -1,5 +1,6 @@
-After clone run:
+**After clone run:**
 
+```bash
 cp basic-configs/.* ~/
 bash
-
+```

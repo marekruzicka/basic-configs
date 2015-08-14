@@ -1,0 +1,16 @@
+deb http://ftp.antik.sk/debian jessie main contrib non-free
+#deb-src http://ftp.antik.sk/debian jessie main contrib non-free
+
+deb http://security.debian.org/ jessie/updates main contrib non-free
+#deb-src http://security.debian.org/ jessie/updates main contrib non-free
+
+# jessie-updates, previously known as 'volatile'
+deb http://ftp.antik.sk/debian jessie-updates main contrib non-free
+#deb-src http://ftp.antik.sk/debian jessie-updates main contrib non-free
+
+# Backports repository
+deb http://http.debian.net/debian jessie-backports main contrib non-free
+
+# Debian Jessie - docker.io
+deb https://apt.dockerproject.org/repo debian-jessie main
+

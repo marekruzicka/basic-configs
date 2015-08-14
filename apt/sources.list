@@ -9,8 +9,5 @@ deb http://ftp.antik.sk/debian jessie-updates main contrib non-free
 #deb-src http://ftp.antik.sk/debian jessie-updates main contrib non-free
 
 # Backports repository
-deb http://http.debian.net/debian jessie-backports main contrib non-free
-
-# Debian Jessie - docker.io
-deb https://apt.dockerproject.org/repo debian-jessie main
+deb http://ftp.antik.sk/debian jessie-backports main contrib non-free
 
